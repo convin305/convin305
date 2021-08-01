@@ -1,5 +1,6 @@
 ### Sumin Park
 
+I'm interested in Data Analysis
 
 <!--
 **convin305/convin305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
