@@ -1,6 +1,7 @@
 ### Sumin Park
 
-I'm interested in Data Analysis
+Hi I'm Sumin Park
+🌱 I’m currently learning Data science. 
 
 <!--
 **convin305/convin305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
