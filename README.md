@@ -1,6 +1,6 @@
 ### Sumin Park
 
-Hi I'm Sumin Park
+Hi I'm Sumin Park.  
 🌱 I’m currently learning Data science. 
 
 <!--
